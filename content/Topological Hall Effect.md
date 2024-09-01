@@ -1,0 +1,4 @@
+### Topological Hall Effect (THE)
+- **Definition**: Non-trivial spin textures create emergent magnetic fields that affect the conduction of electrons.
+- **Berry Phase**: As electrons move through a skyrmion lattice, their spins tend to align with the local magnetic moments due to strong exchange interactions. This causes electrons to pick up a [[Berry phase]]. The Berry curvature acts like a magnetic field in momentum space, resulting in a transverse deflection of the electrons.
+- **Comparison**: As opposed to the [[Anomalous Hall effect]], the THE only requires non-trivial spin textures, while the AHE depends on ferromagnetic spin-orbit 

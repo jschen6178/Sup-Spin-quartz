@@ -1,0 +1,3 @@
+### Magnetic Saturation
+- **Definition**: In ferromagnetic and ferrimagnetic materials, the magnetic permeability $\mu = B/H$ is dependent on $H$. Typically the permeability increases with increasing $H$, until a certain point at which the magnetizing field $H$ has no effect on $B$ except for paramagnetic effects. 
+- High permeability iron alloys saturate at around 1.6-2.2 T while ferrites at 0.2-0.5 T. 

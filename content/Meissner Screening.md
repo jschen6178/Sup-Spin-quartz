@@ -1,0 +1,4 @@
+### Meissner Screening or Screening Currents
+- **Definition**: In a week applied field (less than the critical field that breaks down the superconducting phase), a superconductor expels all magnetic flux by setting up electric currents near its surface, as the magnetic field $\textbf{H}$ induces [[Blundell#1.1.4 Magnetization and field|magnetization]] $\textbf{M}$ within the [[Penetration Depth|London penetration depth]] from the surface.
+- These surface currents shield the internal bulk of the superconductor from the external applied field. As the field does not change with time, the currents (aka screening currents) do not decay with time.
+- Note that if the depth is much less than $\lambda$ the penetration depth, then the screening effect is weak. 

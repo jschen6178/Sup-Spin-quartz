@@ -1,0 +1,5 @@
+# Magnetic penetration depth in Nb/Al and Nb/Cu superconducting proximity bilayers
+
+### Abstract
+>Magnetic penetration depth l in Nb/Al and Nb/Cu superconducting bilayers, its absolute values and temperature dependencies under the variations of material and sample parameters are systematically investigated. Measurements of l are performed by using the two-coil mutual inductance technique and the results are compared with a recent microscopic theory based upon Eilenberger-Usadel’s quasiclassical equations of superconductivity. Our results show that the l(T) characteristics at low temperatures usually follow a power law, or a linear temperature dependence, if the sublayer thicknesses are less than several times of their coherence length and the interface resistance is small. A two-gap, steplike feature in the l(T) curve of the Nb/Al bilayer system will develop around the sublayer transition temperature of Al when the interface resistance increases or when the Al layer thickness becomes much larger than its coherence length. These results can be well described within the framework of the microscopic theory.
+

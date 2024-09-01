@@ -1,0 +1,1 @@
+Analogous to [[Curie temperature]] but for [[Antiferromagnetic]] materials.
